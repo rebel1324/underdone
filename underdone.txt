@@ -1,0 +1,7 @@
+"underdone"
+{
+	"base"			"base"
+	"title"			"언더던: 리본( Underdone: Reborn )"
+	"maps"			"^ud_"
+	"menusystem"	"1"
+}

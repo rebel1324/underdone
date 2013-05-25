@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "icons/bt/item_ar2alt"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$nolod" 1
+}
