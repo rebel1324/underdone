@@ -1,4 +1,4 @@
-function EFFdECT:Init( data ) 
+function EFFECT:Init( data ) 
 	
 	self.Origin = data:GetOrigin()
 	self.DirVec = data:GetNormal()
